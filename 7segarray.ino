@@ -1,9 +1,9 @@
 /* Count from 0 to 9 on 7 seg using array */
 
-//Define pins for the 7 segment display
+//Set pins for the 7 segment display
 int segPins[7] = {2, 3, 4, 5, 6, 7, 8};
 
-//Define each digit from 0-9
+//Set each digit from 0-9
 int digits[10][7] = {
   {1, 1, 1, 1, 1, 1, 0}, //0
   {0, 1, 1, 0, 0, 0, 0}, //1
