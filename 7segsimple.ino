@@ -23,7 +23,7 @@ void setup() {
 
 void loop() {
 
-  // display 0
+  //Display 0
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, HIGH); 
@@ -34,7 +34,7 @@ void loop() {
   digitalWrite(g, LOW); 
   delay(1000); //
 
-  // display 1
+  //Display 1
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, LOW); 
   digitalWrite(b, HIGH); 
@@ -45,7 +45,7 @@ void loop() {
   digitalWrite(g, LOW); 
   delay(1000); //
 
-  // display 2
+  //Display 2
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, HIGH); 
@@ -56,7 +56,7 @@ void loop() {
   digitalWrite(g, HIGH); 
   delay(1000);
 
-  // display 3
+  //Display 3
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, HIGH);
@@ -67,7 +67,7 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000); 
 
-  // display 4
+  //Display 4
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, LOW);
   digitalWrite(b, HIGH);
@@ -78,7 +78,7 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000); 
 
-  // display 5
+  //Display 5
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, LOW); 
@@ -89,7 +89,7 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000); 
 
-  // display 6
+  //Display 6
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, LOW); 
@@ -100,7 +100,7 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000); 
 
-  // display 7
+  //Display 7
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, HIGH); 
@@ -111,7 +111,7 @@ void loop() {
   digitalWrite(g, LOW); 
   delay(1000); 
 
-  // display 8
+  //Display 8
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH); 
   digitalWrite(b, HIGH);
@@ -122,7 +122,7 @@ void loop() {
   digitalWrite(g, HIGH);
   delay(1000);
 
-  // display 9
+  //Display 9
   //HIGH turns on pins, LOW turns off pins
   digitalWrite(a, HIGH);
   digitalWrite(b, HIGH); 
