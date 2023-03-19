@@ -33,7 +33,7 @@ void displayNumber(const int* number) {
 }
 
 void setup() {
-  //Set the pins for the 7-segment display as outputs
+  //Set all as output
   pinMode(a, OUTPUT);
   pinMode(b, OUTPUT); 
   pinMode(c, OUTPUT);
