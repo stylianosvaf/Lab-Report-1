@@ -18,7 +18,7 @@ int digits[10][7] = {
 };
 
 void setup() {
-  //Set all pins as outputs
+  //Set all as outputs
   for (int i = 0; i < 7; i++) {
     pinMode(segPins[i], OUTPUT);
   }
