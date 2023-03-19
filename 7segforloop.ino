@@ -1,6 +1,6 @@
 /* Count from 0 to 9 on 7 seg using for loop for pinmode */
 
-// Set pins to letters of the 7-seg
+//Set pins to letters of the 7-seg
 const int a = 2; 
 const int b = 3;
 const int c = 4; 
